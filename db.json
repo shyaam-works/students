@@ -1,5 +1,5 @@
 {
-  "Sheet1": [
+  "CSE-B": [
     {
       "ROLL NO": "23CSEB01",
       "NAME": "AMRITHA B"
@@ -255,6 +255,502 @@
     {
       "ROLL NO": "24LCSEB04",
       "NAME": "KRISHNAKUMAR N"
+    }
+  ],
+  "CSE-A": [
+    {
+      "ROLL NO": "23CSEA01",
+      "NAME": "Aatiffa Farhana A"
+    },
+    {
+      "ROLL NO": "23CSEA02",
+      "NAME": "Akshaya B"
+    },
+    {
+      "ROLL NO": "23CSEA03",
+      "NAME": "Ambrein S"
+    },
+    {
+      "ROLL NO": "23CSEA04",
+      "NAME": "Amirtha Varshini S"
+    },
+    {
+      "ROLL NO": "23CSEA05",
+      "NAME": "Balasanthoshini M"
+    },
+    {
+      "ROLL NO": "23CSEA06",
+      "NAME": "BAVAKARNI G"
+    },
+    {
+      "ROLL NO": "23CSEA07",
+      "NAME": "Bharathy B"
+    },
+    {
+      "ROLL NO": "23CSEA08",
+      "NAME": "Diloosha.B"
+    },
+    {
+      "ROLL NO": "23CSEA10",
+      "NAME": "Hemavathi J S"
+    },
+    {
+      "ROLL NO": "23CSEA11",
+      "NAME": "Jane Blessy Pearl Singh P"
+    },
+    {
+      "ROLL NO": "23CSEA12",
+      "NAME": "Jeyabharathi A"
+    },
+    {
+      "ROLL NO": "23CSEA13",
+      "NAME": "JEYACHITHRA M"
+    },
+    {
+      "ROLL NO": "23CSEA14",
+      "NAME": "Jhanani K V"
+    },
+    {
+      "ROLL NO": "23CSEA15",
+      "NAME": "Junia Rodha Sharan M"
+    },
+    {
+      "ROLL NO": "23CSEA16",
+      "NAME": "Kaushika S"
+    },
+    {
+      "ROLL NO": "23CSEA17",
+      "NAME": "Kavitha A V"
+    },
+    {
+      "ROLL NO": "23CSEA18",
+      "NAME": "Mahalakshmi M"
+    },
+    {
+      "ROLL NO": "23CSEA19",
+      "NAME": "Minojini G"
+    },
+    {
+      "ROLL NO": "23CSEA20",
+      "NAME": "Nandhini K S"
+    },
+    {
+      "ROLL NO": "23CSEA21",
+      "NAME": "Narmatha R"
+    },
+    {
+      "ROLL NO": "23CSEA22",
+      "NAME": "Narmatha S"
+    },
+    {
+      "ROLL NO": "23CSEA23",
+      "NAME": "Nikila K"
+    },
+    {
+      "ROLL NO": "23CSEA24",
+      "NAME": "Rahina Shamin.H"
+    },
+    {
+      "ROLL NO": "23CSEA25",
+      "NAME": "Ram sibe S"
+    },
+    {
+      "ROLL NO": "23CSEA26",
+      "NAME": "Reashma M D"
+    },
+    {
+      "ROLL NO": "23CSEA27",
+      "NAME": "SANTHIYA C"
+    },
+    {
+      "ROLL NO": "23CSEA28",
+      "NAME": "Sathyapriya G V"
+    },
+    {
+      "ROLL NO": "23CSEA29",
+      "NAME": "Shapna M S"
+    },
+    {
+      "ROLL NO": "23CSEA30",
+      "NAME": "Shivani S"
+    },
+    {
+      "ROLL NO": "23CSEA31",
+      "NAME": "Shree Dhaarshini S"
+    },
+    {
+      "ROLL NO": "23CSEA32",
+      "NAME": "Shruthi B"
+    },
+    {
+      "ROLL NO": "23CSEA33",
+      "NAME": "Uma Shankari V"
+    },
+    {
+      "ROLL NO": "23CSEA34",
+      "NAME": "Varshini P"
+    },
+    {
+      "ROLL NO": "23CSEA36",
+      "NAME": "Anto Deva J"
+    },
+    {
+      "ROLL NO": "23CSEA37",
+      "NAME": "Balayogesh K"
+    },
+    {
+      "ROLL NO": "23CSEA39",
+      "NAME": "B.DHAYA BABUJI"
+    },
+    {
+      "ROLL NO": "23CSEA40",
+      "NAME": "Dhiraj J A L"
+    },
+    {
+      "ROLL NO": "23CSEA41",
+      "NAME": "Giri Vaasan S S"
+    },
+    {
+      "ROLL NO": "23CSEA42",
+      "NAME": "Gowtam O J"
+    },
+    {
+      "ROLL NO": "23CSEA43",
+      "NAME": "Hrithick krishna .R"
+    },
+    {
+      "ROLL NO": "23CSEA44",
+      "NAME": "Jayesh varshan p"
+    },
+    {
+      "ROLL NO": "23CSEA44",
+      "NAME": "Jayesh varshan p"
+    },
+    {
+      "ROLL NO": "23CSEA45",
+      "NAME": "Jegadeesan V"
+    },
+    {
+      "ROLL NO": "23CSEA46",
+      "NAME": "Karthi K S"
+    },
+    {
+      "ROLL NO": "23CSEA47",
+      "NAME": "Mithun R P"
+    },
+    {
+      "ROLL NO": "23CSEA48",
+      "NAME": "muralidhar c"
+    },
+    {
+      "ROLL NO": "23CSEA49",
+      "NAME": "Muthukrishnan R"
+    },
+    {
+      "ROLL NO": "23CSEA50",
+      "NAME": "Naresh kanna K"
+    },
+    {
+      "ROLL NO": "23CSEA51",
+      "NAME": "N.Nithersan"
+    },
+    {
+      "ROLL NO": "23CSEA52",
+      "NAME": "PRAANESHRAM R"
+    },
+    {
+      "ROLL NO": "23CSEA53",
+      "NAME": "Prasanna Kumar M B"
+    },
+    {
+      "ROLL NO": "23CSEA54",
+      "NAME": "  Rupesh Srivathsan.S"
+    },
+    {
+      "ROLL NO": "23CSEA55",
+      "NAME": "Santhosh M R S"
+    },
+    {
+      "ROLL NO": "23CSEA56",
+      "NAME": "Sanjesh Kumar"
+    },
+    {
+      "ROLL NO": "23CSEA57",
+      "NAME": "Senthil Murugan M"
+    },
+    {
+      "ROLL NO": "23CSEA58",
+      "NAME": "Shailesh Babu S R"
+    },
+    {
+      "ROLL NO": "23CSEA59",
+      "NAME": "Sharan V"
+    },
+    {
+      "ROLL NO": "23CSEA61",
+      "NAME": "Sukhail Ahamed M"
+    },
+    {
+      "ROLL NO": "23CSEA62",
+      "NAME": "SURYA I"
+    },
+    {
+      "ROLL NO": "23CSEA63",
+      "NAME": "YOKESH PRAVIN K B"
+    },
+    {
+      "ROLL NO": "24CSEA02",
+      "NAME": "Tagore Santhosh S A"
+    },
+    {
+      "ROLL NO": "24LCSEA01",
+      "NAME": "Dharsan Prabu B V"
+    }
+  ],
+  "CSE-C": [
+    {
+      "ROLL NO": "23CSEC01",
+      "NAME": "Al kabeeba A"
+    },
+    {
+      "ROLL NO": "23CSEC02",
+      "NAME": "Alagu Gayathri L"
+    },
+    {
+      "ROLL NO": "23CSEC03",
+      "NAME": "Aruna T"
+    },
+    {
+      "ROLL NO": "23CSEC04",
+      "NAME": "Ashmitha G M"
+    },
+    {
+      "ROLL NO": "23CSEC06",
+      "NAME": "Deva Harsitha B V"
+    },
+    {
+      "ROLL NO": "23CSEC07",
+      "NAME": "Girisha Malni N"
+    },
+    {
+      "ROLL NO": "23CSEC08",
+      "NAME": "Harini L S"
+    },
+    {
+      "ROLL NO": "23CSEC10",
+      "NAME": "Lakshetha shree J J"
+    },
+    {
+      "ROLL NO": "23CSEC11",
+      "NAME": "Lavanya Sri K"
+    },
+    {
+      "ROLL NO": "23CSEC12",
+      "NAME": "Loga Dharani P M"
+    },
+    {
+      "ROLL NO": "23CSEC13",
+      "NAME": "LUCKWIN SUBINAYA R S"
+    },
+    {
+      "ROLL NO": "23CSEC14",
+      "NAME": "Madhumitha S"
+    },
+    {
+      "ROLL NO": "23CSEC15",
+      "NAME": "S.Madhumitha"
+    },
+    {
+      "ROLL NO": "23CSEC16",
+      "NAME": "MATHIMITHA.B"
+    },
+    {
+      "ROLL NO": "23CSEC17",
+      "NAME": "Prathiksha B"
+    },
+    {
+      "ROLL NO": "23CSEC18",
+      "NAME": "Praveena T"
+    },
+    {
+      "ROLL NO": "23CSEC19",
+      "NAME": "PREETHIKA SHREE V"
+    },
+    {
+      "ROLL NO": "23CSEC20",
+      "NAME": "Priyanga Sri M"
+    },
+    {
+      "ROLL NO": "23CSEC21",
+      "NAME": "Ramya J"
+    },
+    {
+      "ROLL NO": "23CSEC22",
+      "NAME": "T.Shreyah Lakshmi"
+    },
+    {
+      "ROLL NO": "23CSEC23",
+      "NAME": "Sujitha S S"
+    },
+    {
+      "ROLL NO": "23CSEC24",
+      "NAME": "Swetha P"
+    },
+    {
+      "ROLL NO": "23CSEC25",
+      "NAME": "Swetha J"
+    },
+    {
+      "ROLL NO": "23CSEC26",
+      "NAME": "Trishamani.V"
+    },
+    {
+      "ROLL NO": "23CSEC27",
+      "NAME": "Vaishnavi K"
+    },
+    {
+      "ROLL NO": "23CSEC28",
+      "NAME": "Vishalini S"
+    },
+    {
+      "ROLL NO": "23CSEC29",
+      "NAME": "Yamuna B"
+    },
+    {
+      "ROLL NO": "23CSEC30",
+      "NAME": "Yazhini B"
+    },
+    {
+      "ROLL NO": "23CSEC31",
+      "NAME": "Ahmed irfaan Mahdi S"
+    },
+    {
+      "ROLL NO": "23CSEC32",
+      "NAME": "Akash S"
+    },
+    {
+      "ROLL NO": "23CSEC33",
+      "NAME": "AMBAREESH V"
+    },
+    {
+      "ROLL NO": "23CSEC35",
+      "NAME": "Arun S K"
+    },
+    {
+      "ROLL NO": "23CSEC36",
+      "NAME": "Arunachalam S"
+    },
+    {
+      "ROLL NO": "23CSEC37",
+      "NAME": "Bala SivaKumar M K"
+    },
+    {
+      "ROLL NO": "23CSEC38",
+      "NAME": "Bharath.R.L"
+    },
+    {
+      "ROLL NO": "23CSEC39",
+      "NAME": "Deepan S"
+    },
+    {
+      "ROLL NO": "23CSEC40",
+      "NAME": "Dheenathayalan S"
+    },
+    {
+      "ROLL NO": "23CSEC41",
+      "NAME": "Hariharan A"
+    },
+    {
+      "ROLL NO": "23CSEC42",
+      "NAME": "Jeswin S P"
+    },
+    {
+      "ROLL NO": "23CSEC43",
+      "NAME": "Kavin chandran A"
+    },
+    {
+      "ROLL NO": "23CSEC44",
+      "NAME": "Kishore M"
+    },
+    {
+      "ROLL NO": "23CSEC45",
+      "NAME": "Krishna kumar B K"
+    },
+    {
+      "ROLL NO": "23CSEC46",
+      "NAME": "Manoj M"
+    },
+    {
+      "ROLL NO": "23CSEC47",
+      "NAME": "Manojkumar M"
+    },
+    {
+      "ROLL NO": "23CSEC48",
+      "NAME": "Mathesh kannan T"
+    },
+    {
+      "ROLL NO": "23CSEC49",
+      "NAME": "A K Mohamed Arshath"
+    },
+    {
+      "ROLL NO": "23CSEC50",
+      "NAME": "Osho V"
+    },
+    {
+      "ROLL NO": "23CSEC51",
+      "NAME": "Raamkumar M"
+    },
+    {
+      "ROLL NO": "23CSEC52",
+      "NAME": "Rahul R R"
+    },
+    {
+      "ROLL NO": "23CSEC53",
+      "NAME": "Rajesh kumar D"
+    },
+    {
+      "ROLL NO": "23CSEC54",
+      "NAME": "Rohit"
+    },
+    {
+      "ROLL NO": "23CSEC55",
+      "NAME": "Sachin bala B"
+    },
+    {
+      "ROLL NO": "23CSEC56",
+      "NAME": "Sarankumar R"
+    },
+    {
+      "ROLL NO": "23CSEC57",
+      "NAME": "Siddhaarth P S"
+    },
+    {
+      "ROLL NO": "23CSEC58",
+      "NAME": "Sri Balaji M"
+    },
+    {
+      "ROLL NO": "23CSEC59",
+      "NAME": "Syed Ameen G"
+    },
+    {
+      "ROLL NO": "23CSEC60",
+      "NAME": "THARUN R"
+    },
+    {
+      "ROLL NO": "23CSEC61",
+      "NAME": "Veer Sehwag L K"
+    },
+    {
+      "ROLL NO": "23CSEC62",
+      "NAME": "VIJAY VINDHAN M"
+    },
+    {
+      "ROLL NO": "23CSEC63",
+      "NAME": "Vishwajit M"
+    },
+    {
+      "ROLL NO": "24LCSEC01",
+      "NAME": "Prakash L G"
     }
   ]
 }
